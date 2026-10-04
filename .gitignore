@@ -1,0 +1,14 @@
+# Dataset e archivi
+**/AID/
+**/UCMerced_LandUse/
+*.zip
+
+# Modelli e pesi generati
+*.keras
+*.pkl
+
+# Cache e file di sistema
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
